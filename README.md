@@ -1,2 +1,2 @@
 # odin-recipes
-A Moc-website to practice the basics of HTML
+A Mock website to practice the basics of HTML
